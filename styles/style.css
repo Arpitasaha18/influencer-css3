@@ -15,7 +15,9 @@ header and navigation styles
 .header{
     background-image: url('../images/Circle\ design.svg');
     background-repeat: no-repeat;
-    background-position: bottom 10px right 50px;
+    background-position: right 30px top 130px;
+    /* background-position: right 60px bottom 5px; */
+   
     /*  */
     
 }
@@ -51,7 +53,8 @@ nav ul li{
     /* margin: 80px 100px 170px 50px; */
     display: flex;
     align-items: center;
-    padding: 0px 50px;
+    padding: 0px 60px;
+    /* gap: 50px; */
     
 }
 .banner-details{
@@ -120,7 +123,7 @@ nav ul li{
     /* width: 1047px;
     height: 1662px; */
     padding-right: 100px;
-    padding-left: 40px;
+    padding-left: 40pxs;
 }
 /* need to solve */
 .collection-title{
@@ -185,6 +188,7 @@ nav ul li{
     margin-top: 30px;
     color: #E02C6D;
     text-align: end;
+    margin-right: 30px;
 
 }
 
